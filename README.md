@@ -1,20 +1,20 @@
 # 💫 About Me:
 
-Frontend Technical Lead with 8+ years of experience building scalable, high-performance web applications.
+Tech Lead with 8+ years of experience building scalable, high-performance web applications.
 
-Currently working at **Aristocrat Gaming**, where I design and develop complex frontend systems and contribute to building reliable platforms used by thousands of users daily.
+Currently working at **Aristocrat Gaming**, where I design and develop complex systems and contribute to building reliable platforms used by thousands of users daily.
 
 My expertise includes:
 
-• React.js and Next.js application architecture  
+• React.js and Node.js application architecture  
 • Advanced TypeScript and modern JavaScript patterns  
-• Frontend system design for large-scale applications  
+• System design for large-scale applications  
 • Performance optimization and scalable UI architecture  
 • Building modular and maintainable frontend platforms  
 
 I enjoy solving complex engineering problems and transforming them into simple, elegant solutions.
 
-I am passionate about continuously improving my skills and exploring modern technologies in frontend architecture and SaaS platform development.
+I am passionate about continuously improving my skills and exploring modern technologies in architecture and SaaS platform development.
 
 
 ---
